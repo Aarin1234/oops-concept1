@@ -10,9 +10,10 @@ class Dog:
 
 #creating objects
 shepard = Dog()
-chiauaha = Dog()
+chihuahua = Dog()
 
 print(shepard.attr1)
-print(chiauaha.attr2)
+print(chihuahua.attr2)
+
 
 shepard.func()
